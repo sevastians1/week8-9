@@ -1,0 +1,6 @@
+venv/
+front-end/node_modules/
+
+server/__pycache__/
+
+server/static/
